@@ -2,11 +2,11 @@
 
 -   ## STEP 1:
 
-    `git clone `
+    `git clone https://github.com/AShuuu-Technoid/k6-grafana-influxdb.git`
 
 -   ## STEP 2:
 
-    `cd `
+    `cd k6-grafana-influxdb`
 
 -   ## STEP 3:
 
